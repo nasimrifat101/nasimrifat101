@@ -80,12 +80,4 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 ---
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&layout=compact" />
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101" />
-    </div>
-</div>
-
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101)](https://github.com/nasimrifat101/github-readme-stats)
