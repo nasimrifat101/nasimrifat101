@@ -77,6 +77,9 @@
 If you share my passion for innovation and dedication to craftsmanship, I invite you to [contact me](mailto:nasimrifat101@gmail.com) to explore how we can create impactful solutions together.
 
 
+---
+
+
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; margin-top: 20px;">
     <div style="flex: 1; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&layout=compact" />
