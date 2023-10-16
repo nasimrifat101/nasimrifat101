@@ -76,7 +76,7 @@
   
 If you share my passion for innovation and dedication to craftsmanship, I invite you to [contact me](mailto:nasimrifat101@gmail.com) to explore how we can create impactful solutions together.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&layout=pie)](https://github.com/nasimrifat101/github-readme-stats)
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101)](https://github.com/nasimrifat101/github-readme-stats)
+
 
