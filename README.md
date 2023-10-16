@@ -79,6 +79,6 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&layout=pie)](https://github.com/nasimrifat101/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101)](https://github.com/nasimrifat101/github-readme-stats)
 
 
