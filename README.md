@@ -1,6 +1,56 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=4000&pause=2000&color=3CD7A1&width=500&height=50&lines=Hi,+++I'm+Nasim+Ahamed+Rifat)](https://github.com/nasimrifat101)
+
+
+###
+
+
+<p align="left"><strong>Front-End Developer</strong> from Dhaka, Bangladesh. Currently, I'm learning web development at Programming Hero and pursuing a Diploma in Computer Science & Application (DCSA).</p>
+
+
+
+<p align="left">Passionate about web development and programming, I am wholeheartedly dedicated to honing my skills in the vast world of technology. Actively engaged in continuous learning, I thrive on working diligently on diverse personal projects, each aimed at enhancing my expertise. With a profound love for programming, I am committed to staying ahead of industry trends and embracing innovative solutions. My journey is marked by a relentless pursuit of excellence, aiming to create impactful and seamless digital experiences.</p>
+
+
+<p align="left">You can find my projects in my <a href="https://github.com/nasimrifat101?tab=repositories">repositories</a>.</p>
+
+###
+
+<h2 align="middle">Technologies I Know</h2>
+
+<div align="middle">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="20" alt="css3 logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
+  <img width="0" />
 </div>
+
+
+
+<h3 align="left">I'm</h3>
+
+
+
+- **Ambitious Developer**: I aspire to be the epitome of reliability and excellence in the field of web development.
+- **Driven by Excellence**: With an unwavering commitment to excellence, I relentlessly pursue perfection in every project and endeavor.
+- **Open for Opportunities**: Actively seeking challenging job or internship opportunities to further enhance my skills and contribute meaningfully to innovative projects.
+- **Passionate Collaborator**: Eager to collaborate with like-minded professionals, I am open to exciting collaborations that push the boundaries of what technology can achieve.
+  
+If you share my passion for innovation and dedication to craftsmanship, I invite you to [contact me](mailto:nasimrifat101@gmail.com) to explore how we can create impactful solutions together.
 
 ###
 
@@ -22,63 +72,12 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">Hey there! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm <strong>Nasim Ahamed Rifat</strong> from Dhaka, Bangladesh. Currently, I'm learning web development at Programming Hero and pursuing a Diploma in Computer Science & Application (DCSA).</p>
-
-###
-
-<p align="left">-Passionate about web development and programming, I am wholeheartedly dedicated to honing my skills in the vast world of technology. Actively engaged in continuous learning, I thrive on working diligently on diverse personal projects, each aimed at enhancing my expertise. With a profound love for programming, I am committed to staying ahead of industry trends and embracing innovative solutions. My journey is marked by a relentless pursuit of excellence, aiming to create impactful and seamless digital experiences.</p>
-
-###
-
-<p align="left">- You can find my projects in my <a href="https://github.com/nasimrifat101?tab=repositories">repositories</a>.</p>
-
-###
-
-<h3 align="left">🛠️ Skills and Tools</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="20" alt="css3 logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
-  <img width="0" />
-</div>
-
-<h3 align="left">🚀 Goals</h3>
-
-
-
-- **Ambitious Developer**: I aspire to be the epitome of reliability and excellence in the field of web development.
-- **Driven by Excellence**: With an unwavering commitment to excellence, I relentlessly pursue perfection in every project and endeavor.
-- **Open for Opportunities**: Actively seeking challenging job or internship opportunities to further enhance my skills and contribute meaningfully to innovative projects.
-- **Passionate Collaborator**: Eager to collaborate with like-minded professionals, I am open to exciting collaborations that push the boundaries of what technology can achieve.
-  
-If you share my passion for innovation and dedication to craftsmanship, I invite you to [contact me](mailto:nasimrifat101@gmail.com) to explore how we can create impactful solutions together.
-
 
 ---
 
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101)](https://github.com/nasimrifat101/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&layout=pie)](https://github.com/nasimrifat101/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](<[https://git.io/streak-stats](https://github.com/nasimrifat101)>)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true)](https://github.com/nasimrifat101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/nasimrifat101)
+
