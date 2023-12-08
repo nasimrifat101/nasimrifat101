@@ -86,11 +86,16 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 
 <div align="center">
 
-| GitHub Streak | Wakatime Stats | GitHub Stats |
-| --- | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true) | ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical) |
+| Wakatime Stats |
+| --- |
+| ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true) |
+
+| GitHub Streak | GitHub Stats |
+| --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical) |
 
 </div>
+
 
 
 
