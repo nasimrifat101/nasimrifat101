@@ -75,11 +75,29 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](<[https://git.io/streak-stats](https://github.com/nasimrifat101)>)
+<div align="center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true)](https://github.com/nasimrifat101)
+### GitHub Stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nasimrifat101/langs?time_range=six_months&include_private=True&theme=dark)](https://githubtrends.io)
+<div style="display: flex; justify-content: space-between; width: 100%;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/nasimrifat101)
+  <div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true)
+
+  </div>
+
+  <div>
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nasimrifat101/langs?time_range=six_months&include_private=True&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)
+
+  </div>
+
+</div>
+
+</div>
 
