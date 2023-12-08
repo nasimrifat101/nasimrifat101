@@ -82,22 +82,16 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 
 ### GitHub Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
 
-  <div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true)
+<div align="center">
 
-  </div>
-
-  <div>
-
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nasimrifat101/langs?time_range=six_months&include_private=True&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical)
-  </div>
+| GitHub Streak | Wakatime Stats | GitHub Stats |
+| --- | --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true) | ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical) |
 
 </div>
 
-</div>
+
+
 
