@@ -88,7 +88,7 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
 
 | Wakatime Stats |
 | --- |
-| ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true) |
+| <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true" alt="Wakatime Stats"> |
 
 | GitHub Streak | GitHub Stats |
 | --- | --- |
