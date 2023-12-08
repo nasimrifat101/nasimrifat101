@@ -84,14 +84,13 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
   <div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true)
 
   </div>
 
   <div>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nasimrifat101/langs?time_range=six_months&include_private=True&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrifat101&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)
 
   </div>
 
