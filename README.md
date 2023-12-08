@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.postimg.cc/TYBFM3z6/Make-your-README.png" alt="my banner">
+  <img src="https://i.postimg.cc/T1TkbmfX/Make-your-README-1.png" alt="my banner">
 </p>
 
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=4000&pause=2000&color=3CD7A1&width=500&height=50&lines=Hi,+++I'm+Nasim+Ahamed+Rifat)](https://github.com/nasimrifat101)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=4000&pause=2000&color=3CD7A1&width=500&height=50&lines=Nasim+Ahamed+Rifat)](https://github.com/nasimrifat101)
 
 
 ###
@@ -94,7 +94,7 @@ If you share my passion for innovation and dedication to craftsmanship, I invite
   <div>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nasimrifat101/langs?time_range=six_months&include_private=True&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical)
   </div>
 
 </div>
