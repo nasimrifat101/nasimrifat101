@@ -13,8 +13,6 @@
 
 <p align="left">Passionate about web development and programming, I am wholeheartedly dedicated to honing my skills in the vast world of technology. Actively engaged in continuous learning, I thrive on working diligently on diverse personal projects, each aimed at enhancing my expertise. With a profound love for programming, I am committed to staying ahead of industry trends and embracing innovative solutions. My journey is marked by a relentless pursuit of excellence, aiming to create impactful and seamless digital experiences.</p>
 
-
-<p align="left">You can find my Resume in my <a href="(https://rifats-portfolio.surge.sh/)">portfolio</a>.</p>
 <p align="left">You can find my projects in my <a href="https://github.com/nasimrifat101?tab=repositories">repositories</a>.</p>
 
 ###
