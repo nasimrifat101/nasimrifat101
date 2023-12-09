@@ -98,8 +98,6 @@ Feel free to click on the project links to explore each application in more deta
 
 <div align="center">
 
-<div align="center">
-
 | Wakatime Stats |
 | --- |
 | <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nasimrifat101&layout=compact&theme=radical&count_private=true" alt="Wakatime Stats"> |
@@ -107,6 +105,8 @@ Feel free to click on the project links to explore each application in more deta
 | GitHub Streak | GitHub Stats |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimrifat101&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly) | ![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimrifat101&show_icons=true&theme=radical) |
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasimrifat101&theme=radical)
 
 </div>
 
